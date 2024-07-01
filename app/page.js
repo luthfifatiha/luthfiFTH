@@ -2,6 +2,7 @@ import Image from "next/image";
 import Header from "./components/header";
 import About from "./components/about";
 import Hero from "./components/hero";
+import Portofolio from "./components/portofolio";
 
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
       <Header />
       <Hero />
       <About />
+      <Portofolio />
     </div>
   );
 }
