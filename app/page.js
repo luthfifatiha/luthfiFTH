@@ -5,7 +5,7 @@ import Hero from "./components/hero";
 import Portofolio from "./components/portofolio";
 import Clients from "./components/clients";
 import Blog from "./components/blog";
-import Contact from "./contact";
+import Contact from "./components/contact";
 
 
 export default function Home() {
