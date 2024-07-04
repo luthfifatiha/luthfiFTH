@@ -47,7 +47,7 @@ const Blog = () => {
                                     <a href="https://id.quora.com/Mengapa-ikan-hidup-di-air-Mengapa-ikan-tidak-bisa-hidup-di-daratan-padahal-di-daratan-juga-ada-oksigen" target="_blank" className="block mb-3 font-semibold text-xl text-wir hover:text-primary truncate transition duration-200 dark:text-white dark:hover:text-primary">Ikan Tidak Bisa Hidup Di Darat</a>
                                 </h3>
                                 <p className="font-medium text-sir text-base mb-6">
-                                    Mungkin karena Ikan Bernapas dengan oksigen yang larut di air, sedang didaratan tidak ada air, sehingga oksigen tidak dapat dihirup begitu saja oleh si ikan tanpa perantara air.
+                                    Mungkin karena Ikan Bernapas dengan oksigen yang larut di air, sedang didaratan tidak ada air, sehingga oksigen tidak dapat dihirup ikan tanpa perantara air.
                                 </p>
                                 <a href="https://id.quora.com/Mengapa-ikan-hidup-di-air-Mengapa-ikan-tidak-bisa-hidup-di-daratan-padahal-di-daratan-juga-ada-oksigen" target="_blank" className="font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80 transition duration-200">Baca Selengkapnya</a>
                             </div>
