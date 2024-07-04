@@ -13,7 +13,7 @@ const Blog = () => {
                 <div className="flex flex-wrap">
                     <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
                         <div className="bg-white rounded-xl overflow-hidden shadow-lg mb-10 dark:bg-slate-800">
-                            <img src={'/blog/programming.jpg'} alt="" className="w-full" />
+                            <img src={'/blog/programmer.jpg'} alt="" className="w-full" />
                             <div className="py-8 px-6">
                                 <h3>
                                     <a href="https://store.sirclo.com/blog/cara-menjadi-programmer/" target="_blank" className="block mb-3 font-semibold text-xl text-wir hover:text-primary truncate transition duration-200 dark:text-white dark:hover:text-primary">Tips Menjadi Programmer</a>
