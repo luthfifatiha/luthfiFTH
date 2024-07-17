@@ -32,7 +32,7 @@ const Portofolio = () => {
                     {/* portofolio saat sekolah */}
                     <div className="mb-12 md:w-1/2 p-4 rounded-lg shadow-lg bg-white md:bg-transparent md:rounded-none md:shadow-none dark:bg-wir md:dark:bg-transparent">
                         <div className="rounded-md shadow-md overflow-hidden">
-                            <img src={'/TS - app.png'} alt="" className="w-full h-80 object-cover" />
+                            <img src={'/porto - dinamis.png'} alt="" className="w-full object-cover" />
                         </div>
                         <h3 className="font-semibold text-wir text-xl mt-5 mb-3 dark:text-white">Web Portofolio Dinamis</h3>
                         <p className="font-medium text-base text-sir">Web portofolio ini adalah portofolio yang saya buat dengan dinamis, web ini adalah tugas saat saya sekolah.</p>
@@ -41,10 +41,10 @@ const Portofolio = () => {
                     {/* portofolio belajar */}
                     <div className="mb-12 md:w-1/2 p-4 rounded-lg shadow-lg bg-white md:bg-transparent md:rounded-none md:shadow-none dark:bg-wir md:dark:bg-transparent">
                         <div className="rounded-md shadow-md overflow-hidden">
-                            <img src={'/porto - app.png'} alt="" className="w-full h-80 object-cover" />
+                            <img src={'/porto - app.png'} alt="" className="w-full object-cover" />
                         </div>
                         <h3 className="font-semibold text-wir text-xl mt-5 mb-3 dark:text-white">Portofolio NextJS</h3>
-                        <p className="font-medium text-base text-sir">Web portofolio ini adalah portofolio yang saya buat untuk belajar framework NextJS.</p>
+                        <p className="font-medium text-base text-sir">Web portofolio in adalah portofolio yang saya buat untuk belajar framework NextJS.</p>
                     </div>
                 </div>
             </div>
