@@ -44,7 +44,7 @@ const Portofolio = () => {
                             <img src={'/porto - app.png'} alt="" className="w-full object-cover" />
                         </div>
                         <h3 className="font-semibold text-wir text-xl mt-5 mb-3 dark:text-white">Portofolio NextJS</h3>
-                        <p className="font-medium text-base text-sir">Web portofolio in adalah portofolio yang saya buat untuk belajar framework NextJS.</p>
+                        <p className="font-medium text-base text-sir">Web portofolio ini adalah portofolio yang saya buat untuk belajar framework NextJS.</p>
                     </div>
                 </div>
             </div>
