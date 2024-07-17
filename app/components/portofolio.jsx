@@ -35,7 +35,7 @@ const Portofolio = () => {
                             <img src={'/porto - dinamis.png'} alt="" className="w-full object-cover" />
                         </div>
                         <h3 className="font-semibold text-wir text-xl mt-5 mb-3 dark:text-white">Web Portofolio Dinamis</h3>
-                        <p className="font-medium text-base text-sir">Web portofolio ini adalah portofolio yang saya buat dengan dinamis, web ini adalah tugas saat saya sekolah.</p>
+                        <p className="font-medium text-base text-sir">Web portofolio ini adalah portofolio yang saya buat dengan dinamis, web ini adalah tugas saya saat sekolah.</p>
                     </div>
 
                     {/* portofolio belajar */}
